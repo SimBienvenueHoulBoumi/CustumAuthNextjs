@@ -35,9 +35,9 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-## Env variable
-NEXTAUTH_URL=http://localhost:3000
-NEXTAUTH_SECRET=
-MONGODB_URI=
-GOOGLE_CLIENT_ID=
-GOOGLE_CLIENT_SECRET=
+## Env variable  
+NEXTAUTH_URL=http://localhost:3000  
+NEXTAUTH_SECRET=  
+MONGODB_URI=  
+GOOGLE_CLIENT_ID=  
+GOOGLE_CLIENT_SECRET=  
